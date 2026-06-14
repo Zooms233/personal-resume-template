@@ -2,7 +2,7 @@
 
 基于 [Typst](https://typst.app/) 的中文个人简历模板，排版美观，修改方便。
 
-<img src="效果预览.png" width="400" />
+![](preview.png)
 
 ## 快速开始
 
